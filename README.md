@@ -7,7 +7,7 @@ cd ai-generalist-lab
 python -m venv .venv
 python -m venv .venv
 .venv\Scripts\Activate.ps1        # Windows PowerShell
-# source .venv/bin/activate       # Mac / Linux
+# source .venv/bin/activate       # Mac / Linux.
 pip install -r requirements.txt
 python hello.py
 ```
